@@ -1,0 +1,23 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\bin\Debug\Image_Gallery.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\bin\Debug\Image_Gallery.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\bin\Debug\Image_Gallery.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\bin\Debug\Image_Gallery.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Image_Gallery\obj\Debug\Image_Gallery.pdb
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\bin\Debug\Image_Gallery.exe.config
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.exe
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.xml
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.pdb
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\bin\Debug\Image_Gallery.exe
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\bin\Debug\Image_Gallery.pdb
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\bin\Debug\Image_Gallery.xml
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.Form1.resources
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.Form2.resources
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.Resources.resources
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Image_Gallery\Image_Gallery\obj\Debug\Image_Gallery.Form3.resources
